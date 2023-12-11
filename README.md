@@ -12,6 +12,8 @@ N/A
 
 The updated HTML and CSS files in this repository can serve as examples in refactoring code to update HTML accessibility without changing the look or function of the webpage.  The HTML uses proper semantic elements to define different aspects of the page while the CSS more effectively groups sections together with the same style formatting. 
 
+https://jp0st.github.io/Horiseon-Refactoring/
+
 ## Credits
 
 The unedited code for the webpage can be found in this repository here : [https://github.com/coding-boot-camp/urban-octo-telegram]
